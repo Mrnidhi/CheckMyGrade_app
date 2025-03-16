@@ -53,7 +53,7 @@ The code is structured to ensure ease of maintenance, modularity, and scalabilit
 
 ## Testing and Terminal Outputs
 
-Below are the terminal screenshots demonstrating the working of the application. All screenshots are embedded using HTML `<img>` tags with fixed dimensions.
+Below are the terminal screenshots demonstrating the working of the application. All images are embedded using HTML `<img>` tags with fixed dimensions.
 
 ### Terminal Screenshot 1: Application Launch and Main Menu
 
@@ -69,28 +69,28 @@ Below are the terminal screenshots demonstrating the working of the application.
     width="882px" 
     height="550px" 
     alt="Login Operations" 
-    src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.47.27_PM.png" />
+    src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.47.27%E2%80%AFPM.png" />
 
 - **Signup a New User:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Signup a New User" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.47.58_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.47.58%E2%80%AFPM.png" />
 
 - **After Signup, Login Check of the New User:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Login Check After Signup" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.48.14_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.48.14%E2%80%AFPM.png" />
 
 - **Change of Password of the User:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Change Password" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.48.44_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.48.44%E2%80%AFPM.png" />
 
 ### Terminal Screenshot 3: Student Operations
 
@@ -99,49 +99,49 @@ Below are the terminal screenshots demonstrating the working of the application.
       width="882px" 
       height="550px" 
       alt="Student Operations" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.49.00_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.49.00%E2%80%AFPM.png" />
 
 - **Display All Students:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Display All Students" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.49.02_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.49.02%E2%80%AFPM.png" />
 
 - **Search Student Record:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Search Student Record" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.49.19_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.49.19%E2%80%AFPM.png" />
 
 - **Add New Student:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Add New Student" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.50.05_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.50.05%E2%80%AFPM.png" />
 
 - **Update Student and Checking the Grades:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Update Student and Check Grades" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.51.01_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.51.01%E2%80%AFPM.png" />
 
 - **Check Marks:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Check Marks" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.51.18_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.51.18%E2%80%AFPM.png" />
 
 - **Delete Student:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Delete Student" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.51.28_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.51.28%E2%80%AFPM.png" />
 
 ### Terminal Screenshot 4: Professor Operations
 
@@ -150,35 +150,35 @@ Below are the terminal screenshots demonstrating the working of the application.
       width="882px" 
       height="550px" 
       alt="Display All Professors" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.51.52_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.51.52%E2%80%AFPM.png" />
 
 - **Add New Professor:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Add New Professor" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.52.27_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.52.27%E2%80%AFPM.png" />
 
 - **Modify Professor Details:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Modify Professor Details" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.53.10_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.53.10%E2%80%AFPM.png" />
 
 - **Show Professor Course Details:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Professor Course Details" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.04.27_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.04.27%E2%80%AFPM.png" />
 
 - **Delete Professor:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Delete Professor" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.04.52_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.04.52%E2%80%AFPM.png" />
 
 ### Terminal Screenshot 5: Course Operations
 
@@ -187,21 +187,21 @@ Below are the terminal screenshots demonstrating the working of the application.
       width="882px" 
       height="550px" 
       alt="Display All Courses" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.05.10_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.05.10%E2%80%AFPM.png" />
 
 - **Add New Course and Display:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Add New Course" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.05.45_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.05.45%E2%80%AFPM.png" />
 
 - **Delete Course:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Delete Course" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.05.53_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.05.53%E2%80%AFPM.png" />
 
 ### Terminal Screenshot 6: Grade Operations
 
@@ -210,28 +210,28 @@ Below are the terminal screenshots demonstrating the working of the application.
       width="882px" 
       height="550px" 
       alt="Display Grade Operations" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.06.10_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.06.10%E2%80%AFPM.png" />
 
 - **Adding a New Grade:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Add New Grade" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.06.49_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.06.49%E2%80%AFPM.png" />
 
 - **Modifying a Grade:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Modify Grade" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.07.26_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.07.26%E2%80%AFPM.png" />
 
 - **Delete a Grade:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Delete Grade" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.07.44_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.07.44%E2%80%AFPM.png" />
 
 ### Terminal Screenshot 7: Reports & Stats Operations
 
@@ -240,49 +240,49 @@ Below are the terminal screenshots demonstrating the working of the application.
       width="882px" 
       height="550px" 
       alt="Sort by Name" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.00_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.08.00%E2%80%AFPM.png" />
 
 - **Sort by Student Marks:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Sort by Student Marks" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.07_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.08.07%E2%80%AFPM.png" />
 
 - **Average Marks of Course ID DATA200:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Average Marks of Course DATA200" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.22_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.08.22%E2%80%AFPM.png" />
 
 - **Median Marks of All Courses:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Median Marks of All Courses" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.35_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.08.35%E2%80%AFPM.png" />
 
 - **Course-wise Report:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Course-wise Report" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.45_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.08.45%E2%80%AFPM.png" />
 
 - **Professor-wise Report:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Professor-wise Report" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.09.05_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.09.05%E2%80%AFPM.png" />
 
 - **Student-wise Report:**  
   <img 
       width="882px" 
       height="550px" 
       alt="Student-wise Report" 
-      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.09.18_PM.png" />
+      src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.09.18%E2%80%AFPM.png" />
 
 ### Terminal Screenshot 8: End of the Operations
 
@@ -292,7 +292,7 @@ At the end of the operation, when we exit the code, the program automatically sa
     width="882px" 
     height="550px" 
     alt="End of Operations" 
-    src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.09.28_PM.png" />
+    src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.09.28%E2%80%AFPM.png" />
 
 ### Terminal Screenshot 9: Unit Testing Operation
 
@@ -302,7 +302,7 @@ This tests the performance of the code:
     width="882px" 
     height="550px" 
     alt="Unit Testing Operation" 
-    src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.09.55_PM.png" />
+    src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%202.09.55%E2%80%AFPM.png" />
 
 ## Conclusion
 
@@ -310,7 +310,7 @@ The CheckMyGrade Application effectively meets the project requirements for mana
 
 ## Appendices
 
-- **Source Code:** Refer to `checkmygrade_app.py` and `test_checkmygrade_app.py` for the complete codebase.
+- **Source Code:** Refer to `checkmygrade_app.py` and `test_checkmyGrade_app.py` for the complete codebase.
 - **Data Files:** CSV files (`Student.csv`, `Course.csv`, `Professor.csv`, `Grades.csv`, `Login.csv`) store persistent data.
 - **Class Diagram:** See the image above for the visual representation of the system architecture.
 - **Terminal Screenshots:** All relevant terminal screenshots are embedded above.
