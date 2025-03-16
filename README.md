@@ -28,13 +28,15 @@ The application employs an object-oriented design with a modular structure. The 
 
 ### Class Diagram
 
-> If the class diagram does not display, consider removing spaces from the folder/file name.
-
-![Class Diagram](<./README files/draw.io_final.png>)
+<img 
+    width="882px" 
+    height="550px" 
+    alt="Class Diagram" 
+    src="./README_files/draw_io_final.png" />
 
 ## Implementation Details
 
-The project is implemented in Python, with file I/O operations performed via CSV files for data storage:
+The project is implemented in Python, with file I/O operations performed via CSV files for data storage.
 
 - **Source Code Files:**
   - `checkmygrade_app.py` – Main application code.
@@ -51,124 +53,256 @@ The code is structured to ensure ease of maintenance, modularity, and scalabilit
 
 ## Testing and Terminal Outputs
 
-Below are embedded images demonstrating the terminal outputs. If the images do not render, rename your files/folders to remove spaces or percent-encode them.
+Below are the terminal screenshots demonstrating the working of the application. All screenshots are embedded using HTML `<img>` tags with fixed dimensions.
 
 ### Terminal Screenshot 1: Application Launch and Main Menu
 
-![Screenshot 1](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.47.22 PM.png>)
+<img 
+    width="882px" 
+    height="550px" 
+    alt="Application Launch and Main Menu" 
+    src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.47.22_PM.png" />
 
 ### Terminal Screenshot 2: Login Operations
 
-![Screenshot 2](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.47.27 PM.png>)
+<img 
+    width="882px" 
+    height="550px" 
+    alt="Login Operations" 
+    src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.47.27_PM.png" />
 
-- **Signup a new user**  
-  ![Signup](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.47.58 PM.png>)
+- **Signup a New User:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Signup a New User" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.47.58_PM.png" />
 
-- **After signup, login check of the new user**  
-  ![Login check](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.48.14 PM.png>)
+- **After Signup, Login Check of the New User:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Login Check After Signup" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.48.14_PM.png" />
 
-- **Change of Password of the user**  
-  ![Change Password](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.48.44 PM.png>)
+- **Change of Password of the User:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Change Password" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.48.44_PM.png" />
 
 ### Terminal Screenshot 3: Student Operations
 
-- **Student operations**  
-  ![Student operations](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.49.00 PM.png>)
+- **Student Operations:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Student Operations" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.49.00_PM.png" />
 
-- **Display all students**  
-  ![All students](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.49.02 PM.png>)
+- **Display All Students:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Display All Students" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.49.02_PM.png" />
 
-- **Search Student Record**  
-  ![Search student](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.49.19 PM.png>)
+- **Search Student Record:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Search Student Record" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.49.19_PM.png" />
 
-- **Add New Student**  
-  ![Add student](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.50.05 PM.png>)
+- **Add New Student:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Add New Student" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.50.05_PM.png" />
 
-- **Update student and checking the grades**  
-  ![Update student](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.51.01 PM.png>)
+- **Update Student and Checking the Grades:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Update Student and Check Grades" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.51.01_PM.png" />
 
-- **Check Marks**  
-  ![Check marks](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.51.18 PM.png>)
+- **Check Marks:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Check Marks" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.51.18_PM.png" />
 
-- **Delete Student**  
-  ![Delete student](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.51.28 PM.png>)
+- **Delete Student:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Delete Student" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.51.28_PM.png" />
 
 ### Terminal Screenshot 4: Professor Operations
 
-- **Display all professors**  
-  ![All professors](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.51.52 PM.png>)
+- **Display All Professors:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Display All Professors" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.51.52_PM.png" />
 
-- **Add New Professor**  
-  ![Add professor](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.52.27 PM.png>)
+- **Add New Professor:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Add New Professor" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.52.27_PM.png" />
 
-- **Modify professor details**  
-  ![Modify professor](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 1.53.10 PM.png>)
+- **Modify Professor Details:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Modify Professor Details" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.53.10_PM.png" />
 
-- **Show Professor course details**  
-  ![Professor course details](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.04.27 PM.png>)
+- **Show Professor Course Details:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Professor Course Details" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.04.27_PM.png" />
 
-- **Delete Professor**  
-  ![Delete professor](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.04.52 PM.png>)
+- **Delete Professor:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Delete Professor" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.04.52_PM.png" />
 
 ### Terminal Screenshot 5: Course Operations
 
-- **Display all courses**  
-  ![All courses](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.05.10 PM.png>)
+- **Display All Courses:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Display All Courses" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.05.10_PM.png" />
 
-- **Add new Course and display**  
-  ![Add course](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.05.45 PM.png>)
+- **Add New Course and Display:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Add New Course" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.05.45_PM.png" />
 
-- **Delete course**  
-  ![Delete course](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.05.53 PM.png>)
+- **Delete Course:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Delete Course" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.05.53_PM.png" />
 
 ### Terminal Screenshot 6: Grade Operations
 
-- **Display grade operations**  
-  ![Display grades](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.06.10 PM.png>)
+- **Display Grade Operations:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Display Grade Operations" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.06.10_PM.png" />
 
-- **Adding a new grade**  
-  ![Add grade](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.06.49 PM.png>)
+- **Adding a New Grade:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Add New Grade" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.06.49_PM.png" />
 
-- **Modifying a Grade**  
-  ![Modify grade](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.07.26 PM.png>)
+- **Modifying a Grade:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Modify Grade" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.07.26_PM.png" />
 
-- **Delete a grade**  
-  ![Delete grade](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.07.44 PM.png>)
+- **Delete a Grade:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Delete Grade" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.07.44_PM.png" />
 
 ### Terminal Screenshot 7: Reports & Stats Operations
 
-- **Sort by name**  
-  ![Sort by name](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.08.00 PM.png>)
+- **Sort by Name:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Sort by Name" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.00_PM.png" />
 
-- **Sort by student marks**  
-  ![Sort by marks](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.08.07 PM.png>)
+- **Sort by Student Marks:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Sort by Student Marks" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.07_PM.png" />
 
-- **Average marks of course ID DATA200**  
-  ![Average marks](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.08.22 PM.png>)
+- **Average Marks of Course ID DATA200:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Average Marks of Course DATA200" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.22_PM.png" />
 
-- **Median marks of all courses**  
-  ![Median marks](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.08.35 PM.png>)
+- **Median Marks of All Courses:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Median Marks of All Courses" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.35_PM.png" />
 
-- **Course-wise report**  
-  ![Course-wise report](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.08.45 PM.png>)
+- **Course-wise Report:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Course-wise Report" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.08.45_PM.png" />
 
-- **Professor-wise report**  
-  ![Professor-wise report](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.09.05 PM.png>)
+- **Professor-wise Report:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Professor-wise Report" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.09.05_PM.png" />
 
-- **Student-wise Report**  
-  ![Student-wise report](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.09.18 PM.png>)
+- **Student-wise Report:**  
+  <img 
+      width="882px" 
+      height="550px" 
+      alt="Student-wise Report" 
+      src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.09.18_PM.png" />
 
 ### Terminal Screenshot 8: End of the Operations
 
 At the end of the operation, when we exit the code, the program automatically saves all the data before exiting:
 
-![End of operations](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.09.28 PM.png>)
+<img 
+    width="882px" 
+    height="550px" 
+    alt="End of Operations" 
+    src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.09.28_PM.png" />
 
 ### Terminal Screenshot 9: Unit Testing Operation
 
 This tests the performance of the code:
 
-![Unit testing](<./README files/Terminal screenshots/Screenshot 2025-03-16 at 2.09.55 PM.png>)
+<img 
+    width="882px" 
+    height="550px" 
+    alt="Unit Testing Operation" 
+    src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_2.09.55_PM.png" />
 
 ## Conclusion
 
@@ -178,8 +312,8 @@ The CheckMyGrade Application effectively meets the project requirements for mana
 
 - **Source Code:** Refer to `checkmygrade_app.py` and `test_checkmygrade_app.py` for the complete codebase.
 - **Data Files:** CSV files (`Student.csv`, `Course.csv`, `Professor.csv`, `Grades.csv`, `Login.csv`) store persistent data.
-- **Class Diagram:** See the image linked above for the visual representation of the system architecture.
-- **Terminal Screenshots:** All relevant terminal screenshots are attached above.
+- **Class Diagram:** See the image above for the visual representation of the system architecture.
+- **Terminal Screenshots:** All relevant terminal screenshots are embedded above.
 
 ---
 
