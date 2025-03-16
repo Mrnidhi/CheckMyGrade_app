@@ -32,7 +32,7 @@ The application employs an object-oriented design with a modular structure. The 
     width="882px" 
     height="550px" 
     alt="Class Diagram" 
-    src="./README_files/draw_io_final.png" />
+    src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/draw.io_final.png" />
 
 ## Implementation Details
 
