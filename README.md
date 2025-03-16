@@ -61,7 +61,7 @@ Below are the terminal screenshots demonstrating the working of the application.
     width="882px" 
     height="550px" 
     alt="Application Launch and Main Menu" 
-    src="./README_files/Terminal_screenshots/Screenshot_2025-03-16_1.47.22_PM.png" />
+    src="https://github.com/Mrnidhi/CheckMyGrade_app/blob/main/README%20files/Terminal%20screenshots/Screenshot%202025-03-16%20at%201.47.22%E2%80%AFPM.png" />
 
 ### Terminal Screenshot 2: Login Operations
 
